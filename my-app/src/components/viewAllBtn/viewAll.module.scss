@@ -1,0 +1,29 @@
+.buttonContainer{
+    width: 65%;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    padding: 5%;
+
+    button:hover{
+        background-color: #4B6BFB;
+        color: white;
+        transition: all 0.5s ease;
+    }
+
+    .viewAll{
+        width: 140px;
+        height: 50px;
+        background: none;
+        border: 1px solid #696a7549;
+        border-radius: 6px;
+        align-self: flex-end;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+
+    }
+}

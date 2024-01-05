@@ -1,0 +1,27 @@
+.ads{
+    width: 65%;
+    height: 30vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0  auto;
+
+    .adsContainer{
+        width: 750px;
+        height: 100px;
+        background: #E8E8EA;
+        border-radius: 12px;
+        color: #696A75;
+        margin: 0 auto;
+
+        p{
+            height: 5px;
+
+        }
+
+        h4{
+            height: 5px;
+        }
+    }
+
+}
